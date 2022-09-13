@@ -1,3 +1,3 @@
 # kadenbrown5.github.io
-[MaimPage](https://kadenbrown5.github.io/MainPage.html)
-[markdown](https://kadenbrown5.github.io/markdown.html)
+click here [MaimPage](https://kadenbrown5.github.io/MainPage.html/)
+click here [markdown](https://kadenbrown5.github.io/markdown.html/)
